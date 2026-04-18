@@ -9,7 +9,7 @@ class ProductItem {
   bool isSelected;
   final bool hasFreeship;
   final bool hasPromo;
-  final bool hasKombo; // badge kombo hemat
+  final bool hasKombo;
 
   ProductItem({
     required this.productName,
